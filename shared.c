@@ -21,7 +21,7 @@ int main()
 }
 
 // Program 2: This program attaches itself to the shared memory segment created in Program 1. Finally, it reads the content of the shared memory.
-Solution :
+//Solution :
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
